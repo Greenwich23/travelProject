@@ -1,0 +1,236 @@
+.imageGallery {
+  padding: 30px 20px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  gap: 20px;
+  color: var(--foreground);
+  background-color: var(--background);
+}
+.imageGallery h3 {
+  color: var(--foreground);
+  font-size: var(--large-text);
+}
+.imageGalleryp {
+  color: var(--foreground);
+  text-align: center;
+}
+.imagesContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px 0px;
+  width: 80%;
+}
+.images {
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  /* border: solid 1px red; */
+}
+.images img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+  transition: all 0.3s ease-in-out;
+}
+
+.images img:hover {
+  filter: brightness(87%);
+  transform: scale(1.03);
+}
+
+.imageHeart {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+  background-color: white;
+  padding: 10px;
+  border-radius: 20px;
+  position: absolute;
+  top: 5px;
+  right: 7px;
+  color: black;
+  font-size: 40px;
+  z-index: 10;
+}
+
+.imagesText {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 200px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  gap: 5px;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+  color: white;
+  /* border: solid 1px red; */
+}
+.images:hover .imagesText {
+  opacity: 1;
+  visibility: visible;
+}
+.images:hover .imageHeart {
+  opacity: 1;
+  visibility: visible;
+}
+
+.imagesText h4 {
+  font-size: var(--medium-text);
+  color: white;
+}
+.imagesText p {
+  font-size: var(--small-text);
+  color: white;
+  /* border: solid 1px red; */
+}
+.imagesTextFlex {
+  display: flex;
+  gap: 15px;
+}
+.imagesTextFlex div {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+.filtersSearchDiv {
+  padding: 20px 40px;
+  border-radius: 10px;
+  width: 80%;
+  margin: 0 auto;
+  background-color: var(--card-destination);
+  color: var(--foreground);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  box-shadow: 0 0 10px var(--cards-shadow);
+}
+.filterSearch {
+  display: flex;
+  align-items: center;
+  width: 50%;
+}
+.filterSearch input {
+  border: solid 2px transparent;
+  padding: 10px;
+  outline: none;
+  border-radius: 10px;
+  transition: all 0.3s ease-in-out;
+  width: 70%;
+  background-color: transparent;
+  color: var(--foreground);
+}
+.filterSearch input:focus {
+  border: solid 2px rgb(238, 108, 77);
+  border-radius: 10px;
+}
+
+.filtersFlex {
+  display: flex;
+  justify-content: space-between;
+}
+.filters {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+}
+.filtersIcon {
+  color: var(--foreground);
+}
+.filterOptions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+}
+.dropDownDiv {
+  position: relative; /* important: so dropdown anchors here */
+  display: inline-block;
+  color: var(--foreground);
+}
+
+.menuButton {
+  display: flex; /* line up text + icon */
+  align-items: center; /* vertical align */
+  gap: 8px; /* spacing between text and chevron */
+  cursor: pointer;
+}
+
+.filterDropDown {
+  position: absolute; /* float dropdown */
+  top: 100%; /* place below button */
+  left: 0;
+  margin-top: 8px;
+  width: 180px;
+  padding: 10px;
+  background-color: var(--card-destination);
+  border-radius: 10px;
+  outline: none;
+  border: solid 0.5px grey;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  color: var(--foreground);
+  z-index: 10000; /* make sure it’s on top */
+}
+
+.options {
+  background-color: transparent;
+  color: var(--foreground);
+  border-radius: 6px;
+  padding: 6px 8px;
+  text-align: left;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.options:hover {
+  color: var(--background);
+  background-color: rgb(238, 108, 77);
+}
+
+@media screen and (max-width: 1037px) {
+  .filtersSearchDiv {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 819px) {
+  .filtersSearchDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .filtersFlex {
+    display: flex;
+    justify-content: center;
+    /* border: solid 1px red; */
+    flex-direction: column;
+  }
+  .filterSearch {
+    width: 100%;
+  }
+  .filterSearch input {
+    width: 100%;
+  }
+  .imagesContainer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding: 20px 0px;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 540px) {
+  .imagesContainer {
+    grid-template-columns: repeat(1, 1fr);
+    width: 100%;
+  }
+}

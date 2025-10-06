@@ -1,0 +1,390 @@
+.aboutVoyagoDiv {
+  background-color: #3d5a80;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  gap: 20px;
+  padding: 90px 5px;
+}
+.aboutVoyagoDiv h2 {
+  font-size: var(--large-text);
+}
+.aboutVoyagoDiv p {
+  font-size: var(--medium-text);
+  text-align: center;
+}
+.startExploringDiv {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.1);
+  text-decoration: none;
+  color: white;
+}
+.startExploringDiv:hover .toDiscover {
+  color: rgb(238, 108, 77);
+}
+.toDiscover {
+  text-decoration: none;
+  color: white;
+}
+.aboutMissionDiv {
+  /* display: flex; */
+  width: 100%;
+  background-color: var(--background);
+  padding: 50px 5px;
+}
+.aboutMissionHolder {
+  display: flex;
+  width: 80%;
+  align-items: center;
+  gap: 40px;
+  margin: 0 auto;
+}
+.aboutMissionTextDiv {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  color: var(--foreground);
+}
+.aboutMissionTextDiv h2 {
+  font-size: var(--large-text);
+  text-align: center;
+}
+.aboutMissionImage {
+  position: relative;
+  width: 50%;
+}
+.aboutMissionImage img {
+  border-radius: 10px;
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+.imageGlobeDiv {
+  border-radius: 70px;
+  background-color: rgb(238, 108, 77);
+  padding: 10px;
+  position: absolute;
+  bottom: -10px;
+  right: -5px;
+  height: 70px;
+  width: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.imageGlobe {
+  font-size: 40px;
+  color: white;
+}
+.aboutStatsDiv {
+  width: 100%;
+  background: var(--card-destination);
+}
+.aboutStatsHolder {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  margin: 0 auto;
+  padding: 35px 0px;
+  color: var(--foreground);
+  /* border: solid 1px red; */
+}
+.aboutStats h1 {
+    text-align: center;
+}
+.specialVoyagoDiv {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  background-color: var(--background);
+  align-items: center;
+  gap: 30px;
+  padding: 50px 0;
+}
+.specialVoyagoDiv h2 {
+  color: var(--foreground);
+  text-align: center;
+  font-size: var(--large-text);
+}
+.specialVoyagoDiv p {
+    color: var(--foreground);
+    padding: 10px;
+}
+.specialVoyagop {
+    text-align: center;
+}
+.specialVoyagoCardsDiv {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  width: 80%;
+  margin: 20px auto;
+  /* border: solid 1px red; */
+  place-items: center;
+  padding: 10px;
+}
+.cards {
+  color: var(--foreground);
+  width: 100%;
+  height: 220px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  background-color: var(--card-destination);
+  transition: all .2s ease-in-out;
+  border-radius: 10px;
+}
+.cards:hover {
+    transform: translateY(-3px);
+}
+.cardsheaderTextDiv {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  color: var(--foreground);
+}
+.cardsIconDiv {
+  background-color: rgba(238, 108, 77, 0.2);
+  /* padding: 10px; */
+  height: 40px;
+  width: 40px;
+  border-radius: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cardsIcon {
+  color: rgb(238, 108, 77);
+  font-size: 20px;
+  width: 30px;
+}
+.valuesDiv {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  background-color: var(--card-destination);
+  align-items: center;
+  gap: 20px;
+  padding: 50px 0;
+}
+.valuesDiv h2 {
+  font-size: var(--large-text);
+  color: var(--foreground);
+}
+.valuesDiv p {
+    color: var(--foreground);
+    padding: 10px;
+    text-align: center;
+}
+.valueCardsDiv {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  width: 80%;
+}
+.valueCard {
+  width: 40%;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  margin-top: 30px;
+  color: var(--foreground);
+}
+.valuesIconDiv {
+  background-color: rgba(61, 90, 128, 0.2);
+  /* padding: 10px; */
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+.valueIcon {
+  color: rgb(61, 90, 128);
+  font-size: 30px;
+  width: 30px;
+}
+.valueTitle {
+  font-size: var(--medium-text);
+  color: var(--foreground);
+}
+.valueDescription {
+  text-align: center;
+}
+.howVoyagoWorksDiv {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  background-color: var(--background);
+  align-items: center;
+  gap: 20px;
+  padding: 50px 0;
+  color: var(--foreground);
+}
+.howVoyagoWorksDiv h2 {
+  color: var(--foreground);
+  font-size: var(--large-text);
+  text-align: center;
+}
+.howVoyagoWorksDiv p {
+    text-align: center;
+}
+.voyagoWorksDiv {
+  display: flex;
+  gap: 20px;
+  width: 80%;
+  align-items: center;
+}
+.voyagoWorksCards {
+  width: 40%;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  margin-top: 30px;
+}
+.voyagoWorksCards h1 {
+  text-align: center;
+  color: var(--foreground);
+}
+.voyagoWorksCards p {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.voyagoWorksSpanDiv {
+  display: flex;
+  background-color: rgb(238, 108, 77);
+  width: 40px;
+  height: 40px;
+  border-radius: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.voyagoWorksSpan {
+  color: white;
+}
+.startJourneyDiv {
+  background-color: #3d5a80;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  gap: 20px;
+  padding: 90px 5px;
+}
+.startJourneyDiv h2 {
+  font-size: var(--large-text);
+  text-align: center;
+}
+.startJourneyDiv p {
+  font-size: var(--medium-text);
+  color: white;
+  display: flex;
+  text-align: center;
+  padding: 10px;
+}
+.exploreDestinationsDiv {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.exploreDestinations {
+  color: white;
+  text-decoration: none;
+}
+.exploreDestinationsDiv:hover .exploreDestinations {
+  color: rgb(238, 108, 77);
+}
+
+@media screen and (max-width: 960px) {
+  .specialVoyagoCardsDiv {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    width: 95%;
+  }
+  .valueCardsDiv {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    width: 100%;
+  }
+  .aboutMissionHolder {
+    display: flex;
+    width: 95%;
+  }
+}
+@media screen and (max-width: 960px) {
+}
+@media screen and (max-width: 850px) {
+  .specialVoyagoCardsDiv {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .voyagoWorksDiv {
+    width: 95%;
+  }
+  .aboutMissionHolder {
+    display: flex;
+    flex-direction: column;
+  }
+  .aboutMissionTextDiv {
+    width: 95%;
+  }
+
+  .aboutMissionImage {
+    position: relative;
+    width: 95%;
+  }
+}
+@media screen and (max-width: 740px) {
+  .specialVoyagoCardsDiv {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    width: 95%;
+  }
+  .valueCardsDiv {
+    display: flex;
+    flex-direction: column;
+  }
+  .voyagoWorksDiv {
+    width: 95%;
+    flex-direction: column;
+  }
+  .aboutStatsHolder {
+    flex-direction: column;
+    width: 80%;
+    align-items: center;
+    gap: 20px;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .valueCard {
+    width: 70%;
+  }
+  .voyagoWorksCards {
+    width: 70%;
+  }
+}

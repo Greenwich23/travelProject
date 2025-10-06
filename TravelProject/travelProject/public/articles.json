@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "title": "The Ultimate Guide to Solo Backpacking Through Southeast Asia",
+    "excerpt": "Everything you need to know about traveling solo through Thailand, Vietnam, Cambodia, and Laos. From budget tips to safety advice.",
+    "image": "https://images.unsplash.com/photo-1566721328889-7c554f483ba1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiYWNrcGFja2luZyUyMGFkdmVudHVyZSUyMHRyYXZlbHxlbnwxfHx8fDE3NTczNTUwMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "author": "Sarah Chen",
+    "publishDate": "2024-03-15",
+    "readTime": 12,
+    "category": "Adventure",
+    "tags": ["Solo Travel", "Backpacking", "Southeast Asia"],
+    "externalUrl": "https://www.lonelyplanet.com/southeast-asia"
+  },
+  {
+    "id": "2",
+    "title": "Hidden Food Markets: A Culinary Journey Through Morocco",
+    "excerpt": "Discover the secret food markets of Marrakech and Fez, where locals go for the most authentic flavors and traditional recipes.",
+    "image": "https://images.unsplash.com/photo-1666866673594-52cdd385e133?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsb2NhbCUyMGZvb2QlMjBtYXJrZXQlMjB0cmF2ZWx8ZW58MXx8fHwxNzU3MzU1MDEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "author": "Ahmed Hassan",
+    "publishDate": "2024-03-10",
+    "readTime": 8,
+    "category": "Food & Culture",
+    "tags": ["Food", "Morocco", "Local Culture"],
+    "externalUrl": "https://www.foodandwine.com/travel/restaurants-food/morocco-food-markets"
+  },
+  {
+    "id": "3",
+    "title": "Digital Nomad Essentials: Working Remotely from Paradise",
+    "excerpt": "The complete guide to becoming a digital nomad, including the best destinations, tools, and tips for maintaining productivity while traveling.",
+    "image": "https://images.unsplash.com/photo-1618393678187-fb258b8ee191?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBqb3VybmFsJTIwd3JpdGluZ3xlbnwxfHx8fDE3NTczNTUwMDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "author": "Marcus Rodriguez",
+    "publishDate": "2024-03-05",
+    "readTime": 15,
+    "category": "Digital Nomad",
+    "tags": ["Remote Work", "Productivity", "Technology"],
+    "externalUrl": "https://nomadlist.com/blog/digital-nomad-guide"
+  },
+  {
+    "id": "4",
+    "title": "Island Hopping in the Greek Cyclades: A Complete Itinerary",
+    "excerpt": "Explore the stunning Greek islands with our detailed 2-week itinerary covering Santorini, Mykonos, Paros, and hidden gems.",
+    "image": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxncmVlayUyMGlzbGFuZHMlMjB0cmF2ZWx8ZW58MXx8fHwxNzU3MzU1MDkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "author": "Elena Kostas",
+    "publishDate": "2024-03-12",
+    "readTime": 10,
+    "category": "Beach Escapes",
+    "tags": ["Greece", "Islands", "Mediterranean"],
+    "externalUrl": "https://www.greekislands.com/cyclades-travel-guide"
+  },
+  {
+    "id": "5",
+    "title": "Sustainable Travel: How to Explore the World Responsibly",
+    "excerpt": "Learn how to minimize your environmental impact while traveling, from choosing eco-friendly accommodations to supporting local communities.",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzdXN0YWluYWJsZSUyMHRyYXZlbCUyMGVudmlyb25tZW50fGVufDF8fHx8MTc1NzM1NTA5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "author": "Dr. Maya Patel",
+    "publishDate": "2024-03-08",
+    "readTime": 7,
+    "category": "Sustainable Travel",
+    "tags": ["Eco-friendly", "Sustainability", "Responsible Tourism"],
+    "externalUrl": "https://www.nationalgeographic.com/travel/sustainable/"
+  },
+  {
+    "id": "6",
+    "title": "Photography Tips for Capturing Epic Travel Moments",
+    "excerpt": "Master the art of travel photography with expert tips on composition, lighting, and storytelling to make your adventures unforgettable.",
+    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBwaG90b2dyYXBoeXxlbnwxfHx8fDE3NTczNTUwOTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "author": "James Kim",
+    "publishDate": "2024-03-01",
+    "readTime": 9,
+    "category": "Photography",
+    "tags": ["Photography", "Tips", "Visual Storytelling"],
+    "externalUrl": "https://www.natgeo.com/photography/article/travel-photography-tips"
+  },
+  {
+    "id": "7",
+    "title": "The Art of Slow Travel: Quality Over Quantity",
+    "excerpt": "Discover the benefits of slow travel and how spending more time in fewer places can lead to deeper, more meaningful experiences.",
+    "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzbG93JTIwdHJhdmVsJTIwcmVsYXhhdGlvbnxlbnwxfHx8fDE3NTczNTUxMDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "author": "Claire Thompson",
+    "publishDate": "2024-02-28",
+    "readTime": 6,
+    "category": "Travel Philosophy",
+    "tags": ["Slow Travel", "Mindfulness", "Cultural Immersion"],
+    "externalUrl": "https://www.cntraveler.com/story/slow-travel-guide"
+  },
+  {
+    "id": "8",
+    "title": "Budget Travel Hacks: See More for Less",
+    "excerpt": "Proven strategies to stretch your travel budget further, from finding cheap flights to scoring free accommodations.",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxidWRnZXQlMjB0cmF2ZWwlMjBiYWNrcGFja3xlbnwxfHx8fDE3NTczNTUxMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "author": "Tom Walker",
+    "publishDate": "2024-02-25",
+    "readTime": 11,
+    "category": "Budget Travel",
+    "tags": ["Budget", "Money Saving", "Travel Hacks"],
+    "externalUrl": "https://www.skyscanner.com/tips-and-inspiration/budget-travel-tips"
+  },
+  {
+    "id": "9",
+    "title": "Japan Beyond Tokyo: Hidden Gems of Rural Japan",
+    "excerpt": "Venture off the beaten path to discover traditional villages, mountain temples, and authentic Japanese culture away from the crowds.",
+    "image": "https://images.unsplash.com/photo-1551601651-2a8555f1a136?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxqYXBhbiUyMHRlbXBsZSUyMHRyYWRpdGlvbmFsfGVufDF8fHx8MTc1NzM1NTEwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "author": "Yuki Tanaka",
+    "publishDate": "2024-02-20",
+    "readTime": 13,
+    "category": "Cultural Journeys",
+    "tags": ["Japan", "Culture", "Off the Beaten Path"],
+    "externalUrl": "https://www.japantravel.com/rural-japan"
+  }
+]

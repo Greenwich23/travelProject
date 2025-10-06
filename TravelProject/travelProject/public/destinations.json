@@ -1,0 +1,1340 @@
+[
+  {
+    "id": "1",
+    "name": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "image": "https://plus.unsplash.com/premium_photo-1661919210043-fd847a58522d?w=600&q=60&auto=format",
+    "weather": { "temperature": "18°C", "condition": "Partly Cloudy" },
+    "timezone": "CET (UTC+1)",
+    "location": {
+      "coordinates": "48.8566°N, 2.3522°E",
+      "region": "Île-de-France"
+    },
+    "rating": 4.8,
+    "reviews": 15420,
+    "description": "The City of Light captivates with its iconic landmarks, world-class museums, and romantic atmosphere. From the Eiffel Tower to the Louvre, Paris offers an unparalleled cultural experience.",
+    "thingsToDo": [
+      "Visit the Eiffel Tower",
+      "Explore the Louvre Museum",
+      "Stroll along the Seine River",
+      "Visit Notre-Dame Cathedral",
+      "Walk through Montmartre"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1502602898536-47ad22581b52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwYXJpcyUyMGZyYW5jZSUyMGVpZmZlbCUyMHRvd2VyfGVufDF8fHx8MTc1NzM1NDkxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "https://images.unsplash.com/photo-1549144511-f099e773c147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsb3V2cmUlMjBtdXNldW0lMjBwYXJpc3xlbnwxfHx8fDE3NTczNTQ5MTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "https://images.unsplash.com/photo-1550340499-a6c60fc8d431?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxub3RyZSUyMGRhbWUlMjBwYXJpc3xlbnwxfHx8fDE3NTczNTQ5MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb250bWFydHJlJTIwcGFyaXN8ZW58MXx8fHwxNzU3MzU0OTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "budget": {
+      "range": "$150-300/day",
+      "details": "Mid-range accommodation and dining"
+    },
+    "transportation": [
+      "Metro and buses",
+      "Taxi services",
+      "Bike rentals",
+      "Walking tours"
+    ],
+    "accommodation": [
+      "Hotel de Crillon",
+      "Le Meurice",
+      "Boutique hotels in Le Marais",
+      "Airbnb apartments"
+    ],
+    "category": ["Culture", "Architecture", "Art"],
+    "featured": true
+  },
+  {
+    "id": "2",
+    "name": "Tokyo",
+    "country": "Japan",
+    "region": "Asia",
+    "image": "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?q=80&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "weather": { "temperature": "22°C", "condition": "Clear" },
+    "timezone": "JST (UTC+9)",
+    "location": { "coordinates": "35.6762°N, 139.6503°E", "region": "Kanto" },
+    "rating": 4.9,
+    "reviews": 18765,
+    "description": "A vibrant metropolis where ancient traditions blend seamlessly with cutting-edge technology. Tokyo offers incredible cuisine, shopping, and cultural experiences.",
+    "thingsToDo": [
+      "Visit Senso-ji Temple",
+      "Explore Shibuya Crossing",
+      "Shop in Harajuku",
+      "Experience robot restaurants",
+      "Try authentic sushi at Tsukiji"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?q=80&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzaGlidXlhJTIwY3Jvc3NpbmclMjB0b2t5b3xlbnwxfHx8fDE3NTczNTQ5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0b2t5byUyMHRlbXBsZSUyMG5pZ2h0fGVufDF8fHx8MTc1NzM1NDkyM3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "budget": {
+      "range": "$120-250/day",
+      "details": "Includes meals and local transport"
+    },
+    "transportation": [
+      "JR Rail Pass",
+      "Tokyo Metro",
+      "Taxi services",
+      "Bicycle rentals"
+    ],
+    "accommodation": [
+      "Park Hyatt Tokyo",
+      "Ryokans in Asakusa",
+      "Capsule hotels",
+      "Modern business hotels"
+    ],
+    "category": ["Culture", "Food", "Technology"],
+    "featured": true
+  },
+  {
+    "id": "3",
+    "name": "Santorini",
+    "country": "Greece",
+    "region": "Europe",
+    "image": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzYW50b3JpbmklMjBncmVlY2UlMjBzdW5zZXR8ZW58MXx8fHwxNzU3MzU0OTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "weather": { "temperature": "28°C", "condition": "Sunny" },
+    "timezone": "EET (UTC+2)",
+    "location": {
+      "coordinates": "36.3932°N, 25.4615°E",
+      "region": "South Aegean"
+    },
+    "rating": 4.7,
+    "reviews": 9876,
+    "description": "A stunning volcanic island famous for its dramatic cliffs, beautiful beaches, and spectacular sunsets. The perfect romantic getaway destination.",
+    "thingsToDo": [
+      "Watch sunset in Oia",
+      "Explore Fira town",
+      "Visit Red Beach",
+      "Wine tasting tours",
+      "Boat trip to volcano"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzYW50b3JpbmklMjBncmVlY2UlMjBzdW5zZXR8ZW58MXx8fHwxNzU3MzU0OTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzYW50b3JpbmklMjBvaWElMjB2aWxsYWdlfGVufDF8fHx8MTc1NzM1NDkyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "https://plus.unsplash.com/premium_photo-1661963145672-a2bd28eba0fb?q=50&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D0"
+    ],
+    "budget": {
+      "range": "$200-400/day",
+      "details": "Luxury island accommodation"
+    },
+    "transportation": [
+      "Island buses",
+      "ATV rentals",
+      "Taxi services",
+      "Walking paths"
+    ],
+    "accommodation": [
+      "Canaves Oia Hotel",
+      "Grace Hotel Santorini",
+      "Traditional cave houses",
+      "Boutique cliff hotels"
+    ],
+    "category": ["Beach", "Romance", "Luxury"],
+    "featured": true
+  },
+  {
+    "id": "4",
+    "name": "Reykjavik",
+    "country": "Iceland",
+    "region": "Europe",
+    "image": "https://images.unsplash.com/photo-1488415032361-b7e238421f1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxub3J0aGVybiUyMGxpZ2h0cyUyMGljZWxhbmR8ZW58MXx8fHwxNzU3NjI5MzgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "weather": { "temperature": "12°C", "condition": "Cloudy" },
+    "timezone": "GMT (UTC+0)",
+    "location": {
+      "coordinates": "64.1466°N, 21.9426°W",
+      "region": "Capital Region"
+    },
+    "rating": 4.6,
+    "reviews": 7543,
+    "description": "The northernmost capital in the world, offering stunning natural phenomena like the Northern Lights, geysers, and dramatic volcanic landscapes.",
+    "thingsToDo": [
+      "Northern Lights tours",
+      "Blue Lagoon spa",
+      "Geysir geothermal area",
+      "Gullfoss waterfall",
+      "Reykjavik city tour"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1488415032361-b7e238421f1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxub3J0aGVybiUyMGxpZ2h0cyUyMGljZWxhbmR8ZW58MXx8fHwxNzU3NjI5MzgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "https://images.unsplash.com/photo-1602167352652-52dba4750482?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UmV5a2phdmlrfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1474690870753-1b92efa1f2d8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8UmV5a2phdmlrfGVufDB8fDB8fHww"
+    ],
+    "budget": {
+      "range": "$180-350/day",
+      "details": "High cost of living destination"
+    },
+    "transportation": [
+      "City buses",
+      "Car rentals",
+      "Tour buses",
+      "Walking in city center"
+    ],
+    "accommodation": [
+      "Hotel Borg",
+      "Canopy by Hilton",
+      "Guesthouses",
+      "Design hotels"
+    ],
+    "category": ["Nature", "Northern-lights", "Unique"],
+    "featured": true
+  },
+  {
+    "id": "5",
+    "name": "Kyoto",
+    "country": "Japan",
+    "region": "Asia",
+    "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=600&q=60&auto=format",
+    "weather": { "temperature": "16°C", "condition": "Light Rain" },
+    "timezone": "JST (UTC+9)",
+    "location": { "coordinates": "35.0116°N, 135.7681°E", "region": "Kansai" },
+    "rating": 4.9,
+    "reviews": 12453,
+    "description": "The cultural heart of Japan, known for its countless classical Buddhist temples, serene gardens, imperial palaces, and traditional geisha districts.",
+    "thingsToDo": [
+      "Visit Fushimi Inari Shrine",
+      "Explore Arashiyama Bamboo Grove",
+      "Experience a tea ceremony",
+      "See the golden pavilion Kinkaku-ji",
+      "Walk through Gion district"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1558862107-d49ef2a04d72?q=60&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=600&q=60&auto=format"
+    ],
+    "budget": {
+      "range": "$100-220/day",
+      "details": "Affordable ryokans and street food available"
+    },
+    "transportation": [
+      "City buses",
+      "Kyoto subway",
+      "Taxi services",
+      "Bicycle rentals"
+    ],
+    "accommodation": [
+      "Traditional Ryokans",
+      "Gion Hatanaka",
+      "Business hotels near station",
+      "Machiya townhouses"
+    ],
+    "category": ["Culture", "History", "Temples"],
+    "featured": true
+  },
+  {
+    "id": "6",
+    "name": "New York City",
+    "country": "USA",
+    "region": "North America",
+    "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=600&q=60&auto=format",
+    "weather": { "temperature": "14°C", "condition": "Sunny" },
+    "timezone": "EST (UTC-5)",
+    "location": { "coordinates": "40.7128°N, 74.0060°W", "region": "New York" },
+    "rating": 4.7,
+    "reviews": 23456,
+    "description": "The bustling metropolis that never sleeps, famous for its iconic skyline, Broadway shows, world-class museums, and diverse neighborhoods.",
+    "thingsToDo": [
+      "See a Broadway show",
+      "Walk through Central Park",
+      "Visit the Statue of Liberty",
+      "Explore Times Square",
+      "Tour the Metropolitan Museum of Art"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1500916434205-0c77489c6cf7?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?w=600&q=60&auto=format"
+    ],
+    "budget": {
+      "range": "$250-500/day",
+      "details": "Expensive city with high accommodation costs"
+    },
+    "transportation": ["Subway system", "Yellow cabs", "Buses", "Walking"],
+    "accommodation": [
+      "The Plaza Hotel",
+      "Airbnb in Brooklyn",
+      "Times Square hotels",
+      "Boutique hotels in SoHo"
+    ],
+    "category": ["City Life", "Shopping", "Culture"],
+    "featured": true
+  },
+  {
+    "id": "7",
+    "name": "Sydney",
+    "country": "Australia",
+    "region": "Oceania",
+    "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=600&q=60&auto=format",
+    "weather": { "temperature": "24°C", "condition": "Clear" },
+    "timezone": "AEST (UTC+10)",
+    "location": {
+      "coordinates": "33.8688°S, 151.2093°E",
+      "region": "New South Wales"
+    },
+    "rating": 4.8,
+    "reviews": 14567,
+    "description": "A vibrant harbor city known for its stunning Opera House, beautiful beaches like Bondi, and laid-back outdoor lifestyle.",
+    "thingsToDo": [
+      "See the Sydney Opera House",
+      "Climb the Harbour Bridge",
+      "Relax at Bondi Beach",
+      "Explore The Rocks",
+      "Take a ferry to Manly"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1528072164453-f4e8ef0d475a?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1523428096881-5bd79d043006?q=60&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "budget": {
+      "range": "$130-280/day",
+      "details": "Moderate to high cost, especially for waterfront dining"
+    },
+    "transportation": ["Trains and ferries", "Buses", "Light rail", "Taxis"],
+    "accommodation": [
+      "Park Hyatt Sydney",
+      "Bondi Beach hotels",
+      "CBD apartments",
+      "Hostels in King's Cross"
+    ],
+    "category": ["Beach", "City Life", "Nature"],
+    "featured": false
+  },
+  {
+    "id": "8",
+    "name": "Rome",
+    "country": "Italy",
+    "region": "Europe",
+    "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=600&q=60&auto=format",
+    "weather": { "temperature": "20°C", "condition": "Partly Cloudy" },
+    "timezone": "CET (UTC+1)",
+    "location": { "coordinates": "41.9028°N, 12.4964°E", "region": "Lazio" },
+    "rating": 4.8,
+    "reviews": 19876,
+    "description": "The Eternal City, a sprawling open-air museum boasting millennia of history, from the ancient Colosseum to the Vatican City.",
+    "thingsToDo": [
+      "Visit the Colosseum",
+      "Throw a coin in Trevi Fountain",
+      "Explore the Roman Forum",
+      "Tour the Vatican Museums",
+      "Eat authentic pasta carbonara"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1531572753322-ad063cecc140?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1529154036614-a60975f5c760?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cm9tZXxlbnwwfHwwfHx8MA%3D%3D"
+    ],
+    "budget": {
+      "range": "$110-260/day",
+      "details": "Good value for food and sightseeing"
+    },
+    "transportation": ["Metro", "Buses", "Taxis", "Extensive walking"],
+    "accommodation": [
+      "Hotel Hassler",
+      "Trastevere B&Bs",
+      "Hotels near Termini Station",
+      "Airbnb in historic center"
+    ],
+    "category": ["History", "Food", "Architecture"],
+    "featured": true
+  },
+  {
+    "id": "9",
+    "name": "Cape Town",
+    "country": "South Africa",
+    "region": "Africa",
+    "image": "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?q=60&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "weather": { "temperature": "26°C", "condition": "Sunny" },
+    "timezone": "SAST (UTC+2)",
+    "location": {
+      "coordinates": "33.9249°S, 18.4241°E",
+      "region": "Western Cape"
+    },
+    "rating": 4.9,
+    "reviews": 11234,
+    "description": "A stunning coastal city nestled between the iconic Table Mountain and the Atlantic Ocean, offering incredible natural beauty and wildlife.",
+    "thingsToDo": [
+      "Hike Table Mountain",
+      "Visit Robben Island",
+      "Explore the V&A Waterfront",
+      "Drive along Chapman's Peak",
+      "See penguins at Boulders Beach"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=600&q=60&auto=format",
+      "https://plus.unsplash.com/premium_photo-1697730039730-102912a08e70?q=60&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "budget": {
+      "range": "$80-200/day",
+      "details": "Excellent value for money, favorable exchange rate"
+    },
+    "transportation": ["MyCiTi buses", "Car rentals", "Tours", "Uber"],
+    "accommodation": [
+      "The Table Bay Hotel",
+      "Camps Bay guesthouses",
+      "City Bowl apartments",
+      "Waterfront hotels"
+    ],
+    "category": ["Nature", "Adventure", "Wildlife"],
+    "featured": true
+  },
+  {
+    "id": "10",
+    "name": "Rio de Janeiro",
+    "country": "Brazil",
+    "region": "South America",
+    "image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=600&q=60&auto=format",
+    "weather": { "temperature": "30°C", "condition": "Sunny" },
+    "timezone": "BRT (UTC-3)",
+    "location": {
+      "coordinates": "22.9068°S, 43.1729°W",
+      "region": "Southeast"
+    },
+    "rating": 4.6,
+    "reviews": 9876,
+    "description": "The Marvelous City is famous for its breathtaking landscape, vibrant Carnival festival, samba music, and iconic beaches like Copacabana and Ipanema.",
+    "thingsToDo": [
+      "See Christ the Redeemer",
+      "Relax on Copacabana Beach",
+      "Ride the cable car to Sugarloaf Mountain",
+      "Explore Selarón Steps",
+      "Experience Lapa nightlife"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=600&q=60&auto=format",
+      "https://plus.unsplash.com/premium_photo-1679865372673-8d1655a73b50?q=60&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1518639192441-8fce0a366e2e?q=60&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "budget": {
+      "range": "$70-180/day",
+      "details": "Affordable for food and activities"
+    },
+    "transportation": ["Metro", "Buses", "Taxis", "Uber"],
+    "accommodation": [
+      "Belmond Copacabana Palace",
+      "Ipanema beach hotels",
+      "Hostels in Santa Teresa",
+      "Apartments in Leblon"
+    ],
+    "category": ["Beach", "Nature", "Party"],
+    "featured": false
+  },
+  {
+    "id": "11",
+    "name": "Bangkok",
+    "country": "Thailand",
+    "region": "Asia",
+    "image": "https://images.unsplash.com/photo-1563492065599-3520f775eeed?w=600&q=60&auto=format",
+    "weather": {
+      "temperature": "34°C",
+      "condition": "Scattered Thunderstorms"
+    },
+    "timezone": "ICT (UTC+7)",
+    "location": {
+      "coordinates": "13.7563°N, 100.5018°E",
+      "region": "Central Thailand"
+    },
+    "rating": 4.5,
+    "reviews": 18765,
+    "description": "A bustling capital known for its ornate shrines, vibrant street life, chaotic markets, and some of the world's best street food.",
+    "thingsToDo": [
+      "Visit the Grand Palace",
+      "See Wat Arun at sunset",
+      "Shop at Chatuchak Market",
+      "Take a riverboat on the Chao Phraya",
+      "Experience Khao San Road"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1563492065599-3520f775eeed?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1528181304800-259b08848526?w=600&q=60&auto=format"
+    ],
+    "budget": {
+      "range": "$50-120/day",
+      "details": "Extremely affordable for budget travelers"
+    },
+    "transportation": ["BTS Skytrain", "MRT subway", "Tuk-tuks", "River boats"],
+    "accommodation": [
+      "Luxury hotels on the river",
+      "Khao San Road hostels",
+      "Serviced apartments in Sukhumvit",
+      "Boutique hotels in Silom"
+    ],
+    "category": ["Food", "Culture", "Shopping"],
+    "featured": false
+  },
+  {
+    "id": "12",
+    "name": "Barcelona",
+    "country": "Spain",
+    "region": "Europe",
+    "image": "https://images.unsplash.com/photo-1583422409516-2895a77efded?w=600&q=60&auto=format",
+    "weather": { "temperature": "22°C", "condition": "Sunny" },
+    "timezone": "CET (UTC+1)",
+    "location": { "coordinates": "41.3851°N, 2.1734°E", "region": "Catalonia" },
+    "rating": 4.7,
+    "reviews": 15678,
+    "description": "A vibrant city on the Mediterranean coast, famed for its unique Gaudí architecture, lively tapas bars, and beautiful beaches.",
+    "thingsToDo": [
+      "Visit Sagrada Família",
+      "Stroll down Las Ramblas",
+      "Explore Park Güell",
+      "Relax at Barceloneta Beach",
+      "See the Magic Fountain show"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1583422409516-2895a77efded?w=600&q=60&auto=format",
+      "https://plus.unsplash.com/premium_photo-1697730076411-2b4602bf494f?q=60&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1593368858664-a7fe556ab936?q=60&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "budget": {
+      "range": "$100-240/day",
+      "details": "Good value, especially for food and wine"
+    },
+    "transportation": ["Metro", "Buses", "Taxis", "Walking"],
+    "accommodation": [
+      "Hotel Arts Barcelona",
+      "Gothic Quarter apartments",
+      "Hostels in El Raval",
+      "Beachfront hotels"
+    ],
+    "category": ["Architecture", "Beach", "Food"],
+    "featured": true
+  },
+  {
+    "id": "13",
+    "name": "Dubai",
+    "country": "UAE",
+    "region": "Middle East",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=600&q=60&auto=format",
+    "weather": { "temperature": "38°C", "condition": "Clear" },
+    "timezone": "GST (UTC+4)",
+    "location": { "coordinates": "25.2048°N, 55.2708°E", "region": "Dubai" },
+    "rating": 4.6,
+    "reviews": 14321,
+    "description": "A city of superlatives in the desert, home to the world's tallest building, largest shopping malls, and luxurious artificial islands.",
+    "thingsToDo": [
+      "Visit the Burj Khalifa",
+      "Shop at The Dubai Mall",
+      "Experience the desert safari",
+      "See the Palm Jumeirah",
+      "Ski at Mall of the Emirates"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1520512533001-af75c194690b?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1536868313473-7480e7c169f8?w=600&q=60&auto=format"
+    ],
+    "budget": {
+      "range": "$200-600/day",
+      "details": "Luxury destination with high-end options"
+    },
+    "transportation": [
+      "Dubai Metro",
+      "Taxis",
+      "Ride-hailing apps",
+      "Water buses"
+    ],
+    "accommodation": [
+      "Burj Al Arab",
+      "Atlantis The Palm",
+      "Downtown hotels",
+      "Marina apartments"
+    ],
+    "category": ["Luxury", "Shopping", "Modern"],
+    "featured": false
+  },
+  {
+    "id": "14",
+    "name": "Machu Picchu",
+    "country": "Peru",
+    "region": "South America",
+    "image": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?w=600&q=60&auto=format",
+    "weather": { "temperature": "18°C", "condition": "Foggy" },
+    "timezone": "PET (UTC-5)",
+    "location": { "coordinates": "13.1631°S, 72.5450°W", "region": "Cusco" },
+    "rating": 4.9,
+    "reviews": 8765,
+    "description": "The legendary lost city of the Incas, an ancient citadel set high in the Andes Mountains, shrouded in mystery and breathtaking beauty.",
+    "thingsToDo": [
+      "Hike the Inca Trail",
+      "Explore the citadel at sunrise",
+      "Climb Huayna Picchu",
+      "Visit the Sun Gate",
+      "Take the train from Cusco"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1587595431973-160d0d94add1?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1526392060635-9d6019884377?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1703568092973-4192b759ed00?q=60&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "budget": {
+      "range": "$90-220/day",
+      "details": "Cost includes guides, permits, and transportation"
+    },
+    "transportation": [
+      "Trains",
+      "Buses from Aguas Calientes",
+      "Hiking",
+      "Tours"
+    ],
+    "accommodation": [
+      "Belmond Sanctuary Lodge",
+      "Hotels in Aguas Calientes",
+      "Hostels in Cusco",
+      "Lodges along the Inca Trail"
+    ],
+    "category": ["Adventure", "History", "Nature"],
+    "featured": true
+  },
+  {
+    "id": "15",
+    "name": "Amsterdam",
+    "country": "Netherlands",
+    "region": "Europe",
+    "image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=600&q=60&auto=format",
+    "weather": { "temperature": "13°C", "condition": "Overcast" },
+    "timezone": "CET (UTC+1)",
+    "location": {
+      "coordinates": "52.3676°N, 4.9041°E",
+      "region": "North Holland"
+    },
+    "rating": 4.6,
+    "reviews": 13245,
+    "description": "A charming city of picturesque canals, cycling paths, world-class art museums, and historic houses with unique gabled architecture.",
+    "thingsToDo": [
+      "Cruise the canals",
+      "Visit the Van Gogh Museum",
+      "See Anne Frank House",
+      "Explore the Jordaan district",
+      "Rent a bicycle"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?q=60&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "budget": {
+      "range": "$120-280/day",
+      "details": "Moderate cost, bike rentals are affordable"
+    },
+    "transportation": ["Trams", "Bicycles", "Canal boats", "Walking"],
+    "accommodation": [
+      "Pulitzer Amsterdam",
+      "Canal house hotels",
+      "Hostels near Centraal",
+      "Boutique hotels in De Pijp"
+    ],
+    "category": ["Culture", "Canals", "Art"],
+    "featured": false
+  },
+  {
+    "id": "16",
+    "name": "Bali",
+    "country": "Indonesia",
+    "region": "Asia",
+    "image": "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?w=600&q=60&auto=format",
+    "weather": { "temperature": "29°C", "condition": "Humid" },
+    "timezone": "WITA (UTC+8)",
+    "location": {
+      "coordinates": "8.3405°S, 115.0920°E",
+      "region": "Lesser Sunda Islands"
+    },
+    "rating": 4.7,
+    "reviews": 22345,
+    "description": "The Island of the Gods, famous for its volcanic mountains, iconic rice paddies, beaches, and coral reefs, alongside a deeply spiritual culture.",
+    "thingsToDo": [
+      "Visit Uluwatu Temple",
+      "Relax on Seminyak Beach",
+      "Explore Ubud's rice terraces",
+      "See a traditional Kecak dance",
+      "Go surfing in Canggu"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1555400038-63f5ba517a47?q=60&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?w=600&q=60&auto=format"
+    ],
+    "budget": {
+      "range": "$40-150/day",
+      "details": "Very affordable for luxury villas and food"
+    },
+    "transportation": [
+      "Scooter rentals",
+      "Private drivers",
+      "Taxis",
+      "Walking"
+    ],
+    "accommodation": [
+      "Private villas with pools",
+      "Beach resorts in Nusa Dua",
+      "Yoga retreats in Ubud",
+      "Hostels in Canggu"
+    ],
+    "category": ["Beach", "Wellness", "Nature"],
+    "featured": true
+  },
+  {
+    "id": "17",
+    "name": "Prague",
+    "country": "Czech Republic",
+    "region": "Europe",
+    "image": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?w=600&q=60&auto=format",
+    "weather": { "temperature": "10°C", "condition": "Cloudy" },
+    "timezone": "CET (UTC+1)",
+    "location": { "coordinates": "50.0755°N, 14.4378°E", "region": "Bohemia" },
+    "rating": 4.7,
+    "reviews": 11890,
+    "description": "The City of a Hundred Spires, a stunningly preserved medieval core with a fairy-tale castle, charming squares, and the historic Charles Bridge.",
+    "thingsToDo": [
+      "Walk across Charles Bridge",
+      "Explore Prague Castle",
+      "See the Astronomical Clock",
+      "Visit the Old Town Square",
+      "Cruise the Vltava River"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1519677100203-a0e668c92439?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1570610347843-73b368923aed?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1592904484865-1c1f58f5d7ac?w=600&q=60&auto=format"
+    ],
+    "budget": {
+      "range": "$70-160/day",
+      "details": "One of Europe's most affordable capitals"
+    },
+    "transportation": ["Metro", "Trams", "Taxis", "Walking"],
+    "accommodation": [
+      "Hotel Pariz",
+      "Old Town apartments",
+      "Hostels in Zizkov",
+      "Castle district hotels"
+    ],
+    "category": ["History", "Architecture", "Romance"],
+    "featured": false
+  },
+  {
+    "id": "18",
+    "name": "Banff National Park",
+    "country": "Canada",
+    "region": "North America",
+    "image": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=600&q=60&auto=format",
+    "weather": { "temperature": "8°C", "condition": "Snow Showers" },
+    "timezone": "MST (UTC-7)",
+    "location": { "coordinates": "51.4968°N, 115.9281°W", "region": "Alberta" },
+    "rating": 4.9,
+    "reviews": 9567,
+    "description": "Canada's first national park, located in the heart of the Rocky Mountains, offering stunning turquoise lakes, glaciers, and dramatic peaks.",
+    "thingsToDo": [
+      "See Lake Louise",
+      "Drive the Icefields Parkway",
+      "Relax in Banff Upper Hot Springs",
+      "Hike to Moraine Lake",
+      "Take the Banff Gondola"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1519677100203-a0e668c92439?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=600&q=60&auto=format"
+    ],
+    "budget": {
+      "range": "$100-250/day",
+      "details": "Costs higher during peak summer season"
+    },
+    "transportation": [
+      "Car rental essential",
+      "Park shuttles",
+      "Tours",
+      "Walking"
+    ],
+    "accommodation": [
+      "Fairmont Banff Springs",
+      "Chateau Lake Louise",
+      "Cabins in town",
+      "Campgrounds"
+    ],
+    "category": ["Nature", "Adventure", "Mountains"],
+    "featured": true
+  },
+  {
+    "id": "19",
+    "name": "Marrakech",
+    "country": "Morocco",
+    "region": "Africa",
+    "image": "https://images.unsplash.com/photo-1597212618440-806262de4f6b?q=60&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "weather": { "temperature": "32°C", "condition": "Sunny" },
+    "timezone": "WEST (UTC+1)",
+    "location": {
+      "coordinates": "31.6295°N, 7.9811°W",
+      "region": "Marrakesh-Safi"
+    },
+    "rating": 4.5,
+    "reviews": 8765,
+    "description": "A sensory overload in the best way possible, with bustling souks, fragrant spice markets, stunning palaces, and the vibrant Jemaa el-Fnaa square.",
+    "thingsToDo": [
+      "Get lost in the souks",
+      "Visit Jardin Majorelle",
+      "Explore Bahia Palace",
+      "Experience Jemaa el-Fnaa at night",
+      "Stay in a traditional Riad"
+    ],
+    "gallery": [
+      "https://plus.unsplash.com/premium_photo-1673415819362-c2ca640bfafe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFycmFrZWNofGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1719084198651-5ac167cb3e6e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fG1hcnJha2VjaHxlbnwwfHwwfHx8MA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1697729885210-41d99b8a8688?q=60&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "budget": {
+      "range": "$60-150/day",
+      "details": "Great value for unique accommodations (Riads)"
+    },
+    "transportation": ["Taxis", "Walking", "Horse-drawn carriages", "Tours"],
+    "accommodation": [
+      "Luxury Riads",
+      "La Mamounia Hotel",
+      "Medina guesthouses",
+      "Palmeraie resorts"
+    ],
+    "category": ["Culture", "Shopping", "Unique"],
+    "featured": false
+  },
+  {
+    "id": "20",
+    "name": "Queenstown",
+    "country": "New Zealand",
+    "region": "Oceania",
+    "image": "https://plus.unsplash.com/premium_photo-1661882021629-2b0888d93c94?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "weather": { "temperature": "16°C", "condition": "Clear" },
+    "timezone": "NZST (UTC+12)",
+    "location": { "coordinates": "45.0312°S, 168.6626°E", "region": "Otago" },
+    "rating": 4.8,
+    "reviews": 7890,
+    "description": "The adventure capital of the world, set against the dramatic backdrop of the Remarkables mountain range on the shores of Lake Wakatipu.",
+    "thingsToDo": [
+      "Bungee jumping",
+      "Skiing in winter",
+      "Cruise Milford Sound",
+      "Wine tasting in Gibbston Valley",
+      "Hike the Ben Lomond Track"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1600466403153-50193d187dde?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cXVlZW5zdG93bnxlbnwwfHwwfHx8MA%3D%3D",
+      "https://images.unsplash.com/photo-1512017615494-fdf6146235ff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cXVlZW5zdG93bnxlbnwwfHwwfHx8MA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1661883289130-2ef3b6612fb3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cXVlZW5zdG93bnxlbnwwfHwwfHx8MA%3D%3D"
+    ],
+    "budget": {
+      "range": "$120-300/day",
+      "details": "Adventure activities can be expensive"
+    },
+    "transportation": ["Car rentals", "Buses", "Taxis", "Walking"],
+    "accommodation": [
+      "Eichardt's Private Hotel",
+      "Lakeside apartments",
+      "Adventure hostels",
+      "Ski lodges"
+    ],
+    "category": ["Adventure", "Nature", "Mountains"],
+    "featured": true
+  },
+  {
+    "id": "21",
+    "name": "Venice",
+    "country": "Italy",
+    "region": "Europe",
+    "image": "https://images.unsplash.com/photo-1514890547357-a9ee288728e0?w=600&q=60&auto=format",
+    "weather": { "temperature": "18°C", "condition": "Foggy" },
+    "timezone": "CET (UTC+1)",
+    "location": { "coordinates": "45.4408°N, 12.3155°E", "region": "Veneto" },
+    "rating": 4.6,
+    "reviews": 14532,
+    "description": "A unique floating city built on over 100 small islands, crisscrossed by canals and connected by beautiful bridges, with no roads for cars.",
+    "thingsToDo": [
+      "Gondola ride on the canals",
+      "Visit St. Mark's Square",
+      "See the Doge's Palace",
+      "Get lost in the alleyways",
+      "Visit the islands of Murano and Burano"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1514890547357-a9ee288728e0?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1534270804882-6b504884e1a5?w=600&q=60&auto=format",
+      "https://images.unsplash.com/photo-1508007080196-9cc8344866c3?w=600&q=60&auto=format"
+    ],
+    "budget": {
+      "range": "$130-300/day",
+      "details": "Can be expensive, especially near main sights"
+    },
+    "transportation": [
+      "Vaporetto water buses",
+      "Water taxis",
+      "Gondolas",
+      "Walking"
+    ],
+    "accommodation": [
+      "Gritti Palace",
+      "Hotels on the Grand Canal",
+      "Airbnb in Cannaregio",
+      "Lido island resorts"
+    ],
+    "category": ["Romance", "Canals", "History"],
+    "featured": true
+  },
+  {
+    "id": "22",
+    "name": "Singapore",
+    "country": "Singapore",
+    "region": "Asia",
+    "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=600&q=60&auto=format",
+    "weather": { "temperature": "31°C", "condition": "Thunderstorms" },
+    "timezone": "SGT (UTC+8)",
+    "location": {
+      "coordinates": "1.3521°N, 103.8198°E",
+      "region": "Central Region"
+    },
+    "rating": 4.7,
+    "reviews": 13456,
+    "description": "A modern city-state and global hub known for its multiculturalism, futuristic gardens, efficient infrastructure, and world-class street food.",
+    "thingsToDo": [
+      "Explore Gardens by the Bay",
+      "Shop on Orchard Road",
+      "Eat at Hawker Centers",
+      "Visit Marina Bay Sands",
+      "Experience the Night Safari"
+    ],
+    "gallery": [
+      "https://plus.unsplash.com/premium_photo-1697730373939-3ebcaa9d295e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2luZ2Fwb3JlfGVufDB8fDB8fHww",
+      "https://plus.unsplash.com/premium_photo-1697729420937-0ecb0ddb6e85?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2luZ2Fwb3JlfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1565967511849-76a60a516170?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2luZ2Fwb3JlfGVufDB8fDB8fHww"
+    ],
+    "budget": {
+      "range": "$140-320/day",
+      "details": "High-end shopping and hotels, affordable food"
+    },
+    "transportation": ["MRT subway", "Buses", "Taxis", "Walking"],
+    "accommodation": [
+      "Marina Bay Sands",
+      "Raffles Hotel",
+      "Hotels in Clarke Quay",
+      "Hostels in Little India"
+    ],
+    "category": ["Modern", "Food", "Shopping"],
+    "featured": false
+  },
+  {
+    "id": "23",
+    "name": "Petra",
+    "country": "Jordan",
+    "region": "Middle East",
+    "image": "https://images.unsplash.com/photo-1615811648503-479d06197ff3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGV0cmF8ZW58MHx8MHx8fDA%3D",
+    "weather": { "temperature": "25°C", "condition": "Sunny" },
+    "timezone": "EET (UTC+2)",
+    "location": { "coordinates": "30.3285°N, 35.4444°E", "region": "Ma'an" },
+    "rating": 4.8,
+    "reviews": 6543,
+    "description": "The legendary Rose-Red City, an ancient Nabataean capital carved directly into the vibrant red sandstone cliffs, lost to the world for centuries.",
+    "thingsToDo": [
+      "Walk through the Siq to the Treasury",
+      "Climb to the Monastery",
+      "See the Royal Tombs",
+      "Experience Petra by Night",
+      "Visit the High Place of Sacrifice"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1501232060322-aa87215ab531?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHBldHJhfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1580834341580-8c17a3a630ca?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGV0cmF8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1705628078563-966777473473?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGV0cmF8ZW58MHx8MHx8fDA%3D"
+    ],
+    "budget": {
+      "range": "$80-180/day",
+      "details": "Jordan Pass offers good value for multiple sites"
+    },
+    "transportation": [
+      "Tours from Amman",
+      "Local guides",
+      "Donkey or camel rides",
+      "Walking"
+    ],
+    "accommodation": [
+      "Movienpick Resort Petra",
+      "Cave-themed hotels in Wadi Musa",
+      "Guesthouses",
+      "Camping in the desert"
+    ],
+    "category": ["History", "Archaeology", "Unique"],
+    "featured": true
+  },
+  {
+    "id": "24",
+    "name": "Istanbul",
+    "country": "Turkey",
+    "region": "Europe/Asia",
+    "image": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?w=600&q=60&auto=format",
+    "weather": { "temperature": "17°C", "condition": "Partly Cloudy" },
+    "timezone": "TRT (UTC+3)",
+    "location": { "coordinates": "41.0082°N, 28.9784°E", "region": "Marmara" },
+    "rating": 4.7,
+    "reviews": 16789,
+    "description": "A transcontinental city bridging Europe and Asia, rich with history from the Byzantine and Ottoman empires, famous for its grand bazaars and majestic mosques.",
+    "thingsToDo": [
+      "Visit the Hagia Sophia",
+      "Explore the Blue Mosque",
+      "Get lost in the Grand Bazaar",
+      "Cruise the Bosphorus",
+      "See Topkapi Palace"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?w=600&q=60&auto=format",
+      "https://plus.unsplash.com/premium_photo-1661955588369-b0d28de38b45?q=60&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1563300365-9c77e472e7a5?q=60&w=600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "budget": {
+      "range": "$70-190/day",
+      "details": "Excellent value for history and cuisine"
+    },
+    "transportation": ["Tram", "Ferries", "Taxis", "Walking"],
+    "accommodation": [
+      "Çırağan Palace Kempinski",
+      "Hotels in Sultanahmet",
+      "Boutique hotels in Karaköy",
+      "Airbnb in Beyoğlu"
+    ],
+    "category": ["History", "Culture", "Food"],
+    "featured": true
+  },
+  {
+    "id": "25",
+    "name": "Mount Roraima",
+    "country": "Venezuela",
+    "region": "South America",
+    "image": "https://plus.unsplash.com/premium_photo-1666794848490-02049f8bf846?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW91bnQlMjByb3JhaW1hfGVufDB8fDB8fHww",
+    "weather": { "temperature": "15°C", "condition": "Misty" },
+    "timezone": "VET (UTC-4)",
+    "location": {
+      "coordinates": "5.1561°N, 60.7658°W",
+      "region": "Gran Sabana"
+    },
+    "rating": 4.8,
+    "reviews": 2341,
+    "description": "A mystical tabletop mountain that inspired Arthur Conan Doyle's 'The Lost World', featuring unique endemic species and breathtaking cloud-covered landscapes.",
+    "thingsToDo": [
+      "Multi-day trek to summit",
+      "Explore the crystal valleys",
+      "See unique carnivorous plants",
+      "Visit triple border point",
+      "Photograph dramatic cloud formations"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1596934001982-8f04c1f72930?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW91bnQlMjByb3JhaW1hfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1663109253358-19c476502e10?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bW91bnQlMjByb3JhaW1hfGVufDB8fDB8fHww",
+      "https://plus.unsplash.com/premium_photo-1749755039094-186fd198b131?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bW91bnQlMjByb3JhaW1hfGVufDB8fDB8fHww"
+    ],
+    "budget": {
+      "range": "$80-150/day",
+      "details": "Guided trek required, includes equipment and meals"
+    },
+    "transportation": [
+      "4x4 vehicles",
+      "Hiking",
+      "Local guides",
+      "Camping equipment"
+    ],
+    "accommodation": [
+      "Camping on mountain",
+      "Eco-lodges in Paraitepuy",
+      "Basic hotels in Santa Elena",
+      "Wilderness camping"
+    ],
+    "category": ["Adventure", "Nature", "Unique"],
+    "featured": true
+  },
+  {
+    "id": "26",
+    "name": "Pamukkale",
+    "country": "Turkey",
+    "region": "Europe/Asia",
+    "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=600&q=80&auto=format",
+    "weather": { "temperature": "28°C", "condition": "Sunny" },
+    "timezone": "TRT (UTC+3)",
+    "location": {
+      "coordinates": "37.9231°N, 29.1250°E",
+      "region": "Denizli Province"
+    },
+    "rating": 4.7,
+    "reviews": 8921,
+    "description": "The 'Cotton Castle' - stunning white travertine terraces formed by mineral-rich thermal waters, with ancient Hierapolis ruins overlooking the surreal landscape.",
+    "thingsToDo": [
+      "Walk on travertine terraces",
+      "Swim in Cleopatra's Pool",
+      "Explore Hierapolis ruins",
+      "Watch sunset over white terraces",
+      "Experience thermal waters"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=600&q=80&auto=format",
+      "https://images.unsplash.com/photo-1628746221666-4f4e4e7c4e4c?w=600&q=80&auto=format",
+      "https://images.unsplash.com/photo-1551884172-7c3e1b6c5d6f?w=600&q=80&auto=format"
+    ],
+    "budget": {
+      "range": "$50-120/day",
+      "details": "Affordable accommodation in nearby towns"
+    },
+    "transportation": ["Dolmuş (minibuses)", "Taxis", "Tour buses", "Walking"],
+    "accommodation": [
+      "Pamukkale hotels",
+      "Thermal spa resorts",
+      "Pensions in Denizli",
+      "Guesthouses with pool"
+    ],
+    "category": ["Nature", "History", "Wellness"],
+    "featured": true
+  },
+  {
+    "id": "27",
+    "name": "Giant's Causeway",
+    "country": "Northern Ireland",
+    "region": "Europe",
+    "image": "https://plus.unsplash.com/premium_photo-1664304475305-c26fbaeee87b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z2lhbnQlRTIlODAlOTlzJTIwY2F1c2V3YXl8ZW58MHx8MHx8fDA%3D",
+    "weather": { "temperature": "12°C", "condition": "Windy" },
+    "timezone": "GMT (UTC+0)",
+    "location": {
+      "coordinates": "55.2408°N, 6.5117°W",
+      "region": "County Antrim"
+    },
+    "rating": 4.6,
+    "reviews": 15678,
+    "description": "An incredible geological formation of about 40,000 interlocking basalt columns, the result of an ancient volcanic fissure eruption and subject of Irish legends.",
+    "thingsToDo": [
+      "Walk on basalt columns",
+      "Visit visitor center",
+      "Hike coastal path",
+      "See Giant's Boot formation",
+      "Photograph dramatic coastline"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1718645644334-e70cf15e47e5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z2lhbnQlRTIlODAlOTlzJTIwY2F1c2V3YXl8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1667018579201-be0314d63954?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z2lhbnQlRTIlODAlOTlzJTIwY2F1c2V3YXl8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1718645862521-4d156a9d06fa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Z2lhbnQlRTIlODAlOTlzJTIwY2F1c2V3YXl8ZW58MHx8MHx8fDA%3D"
+    ],
+    "budget": {
+      "range": "$80-180/day",
+      "details": "Moderate costs, rental car recommended"
+    },
+    "transportation": ["Rental car", "Tour buses", "Local buses", "Walking"],
+    "accommodation": [
+      "Bushmills Inn",
+      "B&Bs in Bushmills",
+      "Hotels in Belfast",
+      "Coastal cottages"
+    ],
+    "category": ["Nature", "Geology", "Adventure"],
+    "featured": false
+  },
+  {
+    "id": "28",
+    "name": "Socotra Island",
+    "country": "Yemen",
+    "region": "Asia",
+    "image": "https://images.unsplash.com/photo-1642425149556-b6f90e946859?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c29jb3RyYXxlbnwwfHwwfHx8MA%3D%3D",
+    "weather": { "temperature": "32°C", "condition": "Arid" },
+    "timezone": "AST (UTC+3)",
+    "location": {
+      "coordinates": "12.4634°N, 53.8237°E",
+      "region": "Socotra Archipelago"
+    },
+    "rating": 4.9,
+    "reviews": 1234,
+    "description": "The 'Galapagos of the Indian Ocean' - an isolated island with otherworldly landscapes and unique flora and fauna found nowhere else on Earth.",
+    "thingsToDo": [
+      "See Dragon's Blood Trees",
+      "Explore Detwah Lagoon",
+      "Visit Hoq Cave",
+      "Relax on pristine beaches",
+      "Bird watching for endemic species"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1642425146609-6c8ff4589d18?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c29jb3RyYXxlbnwwfHwwfHx8MA%3D%3D",
+      "https://images.unsplash.com/photo-1642425149819-af1b803b2b25?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c29jb3RyYXxlbnwwfHwwfHx8MA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1699535657712-02fe404e916f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c29jb3RyYXxlbnwwfHwwfHx8MA%3D%3D"
+    ],
+    "budget": {
+      "range": "$60-130/day",
+      "details": "Basic facilities, guided tours essential"
+    },
+    "transportation": ["4x4 vehicles", "Local guides", "Walking", "Boat trips"],
+    "accommodation": [
+      "Basic guesthouses",
+      "Beach camping",
+      "Eco-camps",
+      "Traditional huts"
+    ],
+    "category": ["Unique", "Nature", "Adventure"],
+    "featured": true
+  },
+  {
+    "id": "29",
+    "name": "Moraine Lake",
+    "country": "Canada",
+    "region": "North America",
+    "image": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=600&q=80&auto=format",
+    "weather": { "temperature": "10°C", "condition": "Clear" },
+    "timezone": "MST (UTC-7)",
+    "location": { "coordinates": "51.3217°N, 116.1860°W", "region": "Alberta" },
+    "rating": 4.9,
+    "reviews": 23456,
+    "description": "A glacially-fed lake in the Valley of the Ten Peaks, renowned for its stunning turquoise-blue waters set against dramatic mountain scenery.",
+    "thingsToDo": [
+      "Canoe on turquoise waters",
+      "Hike the Rockpile Trail",
+      "Photograph sunrise reflections",
+      "Explore nearby Lake Louise",
+      "Wildlife spotting"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=600&q=80&auto=format",
+      "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=600&q=80&auto=format",
+      "https://images.unsplash.com/photo-1578632749014-ca77efd052eb?w=600&q=80&auto=format"
+    ],
+    "budget": {
+      "range": "$100-250/day",
+      "details": "Park entry fees apply, limited accommodation"
+    },
+    "transportation": ["Park shuttles", "Car rental", "Hiking", "Tour buses"],
+    "accommodation": [
+      "Moraine Lake Lodge",
+      "Hotels in Lake Louise",
+      "Banff accommodations",
+      "Wilderness hostels"
+    ],
+    "category": ["Nature", "Photography", "Mountains"],
+    "featured": true
+  },
+  {
+    "id": "30",
+    "name": "Fly Geyser",
+    "country": "USA",
+    "region": "North America",
+    "image": "https://media.istockphoto.com/id/1513740984/photo/red-hills-in-the-desert.jpg?s=612x612&w=0&k=20&c=zvXDrJoNNj3XNW5_ykdGnjW4eN7UkiDnSTYB8oKELMI=",
+    "weather": { "temperature": "25°C", "condition": "Dry" },
+    "timezone": "PST (UTC-8)",
+    "location": { "coordinates": "40.8591°N, 119.3314°W", "region": "Nevada" },
+    "rating": 4.5,
+    "reviews": 3456,
+    "description": "An accidental man-made geyser created by well drilling in the 1960s, now creating a constantly growing multicolored mound of mineral deposits.",
+    "thingsToDo": [
+      "Guided ranch tour",
+      "Photograph colorful formations",
+      "See multiple geothermal vents",
+      "Visit Black Rock Desert",
+      "Stargazing in remote location"
+    ],
+    "gallery": [
+      "https://media.istockphoto.com/id/1281047505/photo/rainbow-mountains-andes-near-cusco-in-peru.jpg?s=612x612&w=0&k=20&c=dfBr4GkoKfYVdcTNDtcT4mLRpQIHU8wGuG1-Z9TqRD8=",
+      "https://media.istockphoto.com/id/963191050/photo/white-pocket.jpg?s=612x612&w=0&k=20&c=LAV3jwyimlGz4ZojYhB5CjxSy48j6g2RfJk3MFlvDgA=",
+      "https://media.istockphoto.com/id/1076125282/photo/beautiful-colorful-volcanic-mountains-landmannalaugar-in-iceland.jpg?s=612x612&w=0&k=20&c=FS4GCXtrF5QeSIQbbhRPt99Cjq9eSlZDzj72VBtV9sY="
+    ],
+    "budget": {
+      "range": "$70-160/day",
+      "details": "Tours required as it's on private property"
+    },
+    "transportation": [
+      "Private tours",
+      "Rental car",
+      "4x4 vehicles",
+      "Walking tours"
+    ],
+    "accommodation": [
+      "Reno hotels",
+      "Gerlach accommodations",
+      "Camping nearby",
+      "RV parks"
+    ],
+    "category": ["Unique", "Geology", "Photography"],
+    "featured": false
+  },
+  {
+    "id": "31",
+    "name": "Reed Flute Cave",
+    "country": "China",
+    "region": "Asia",
+    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&q=80&auto=format",
+    "weather": { "temperature": "20°C", "condition": "Humid" },
+    "timezone": "CST (UTC+8)",
+    "location": { "coordinates": "25.2345°N, 110.1799°E", "region": "Guangxi" },
+    "rating": 4.4,
+    "reviews": 8765,
+    "description": "A natural limestone cave with spectacular multicolored lighting illuminating magnificent stalactites, stalagmites, and rock formations.",
+    "thingsToDo": [
+      "Walk through illuminated chambers",
+      "See ancient inscriptions",
+      "Photograph colorful formations",
+      "Boat ride on Li River",
+      "Visit nearby Guilin"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&q=80&auto=format",
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&q=80&auto=format",
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&q=80&auto=format"
+    ],
+    "budget": {
+      "range": "$40-100/day",
+      "details": "Very affordable entry and local costs"
+    },
+    "transportation": ["Local buses", "Taxis", "Tour groups", "Walking"],
+    "accommodation": [
+      "Guilin hotels",
+      "Riverside resorts",
+      "City center hotels",
+      "Traditional guesthouses"
+    ],
+    "category": ["Nature", "Caves", "Photography"],
+    "featured": false
+  },
+  {
+    "id": "32",
+    "name": "Lake Hillier",
+    "country": "Australia",
+    "region": "Oceania",
+    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&q=80&auto=format",
+    "weather": { "temperature": "22°C", "condition": "Sunny" },
+    "timezone": "AWST (UTC+8)",
+    "location": {
+      "coordinates": "34.0944°S, 123.2021°E",
+      "region": "Western Australia"
+    },
+    "rating": 4.7,
+    "reviews": 5432,
+    "description": "A stunning pink lake on Middle Island with bubblegum-colored water that remains permanently pink, caused by microorganisms and high salinity.",
+    "thingsToDo": [
+      "Scenic flights over lake",
+      "Boat tours around island",
+      "Photograph pink waters",
+      "Visit Recherche Archipelago",
+      "Wildlife watching"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&q=80&auto=format",
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&q=80&auto=format",
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&q=80&auto=format"
+    ],
+    "budget": {
+      "range": "$150-300/day",
+      "details": "Scenic flights are main expense"
+    },
+    "transportation": [
+      "Scenic flights",
+      "Boat charters",
+      "4x4 to coast",
+      "Helicopter tours"
+    ],
+    "accommodation": [
+      "Esperance hotels",
+      "Beachside accommodations",
+      "Camping on mainland",
+      "Eco-retreats"
+    ],
+    "category": ["Unique", "Nature", "Photography"],
+    "featured": true
+  }
+]

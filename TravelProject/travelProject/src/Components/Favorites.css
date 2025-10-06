@@ -1,0 +1,166 @@
+.favoritesPage {
+  background-color: var(--card-destination);
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  /* margin: 0 auto; */
+}
+.noFavoritesDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 20px 5px;
+  color: var(--foreground);
+  background-color: var(--card-destination);
+}
+.noFavoritesDiv img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.favoritesDiv {
+  width: 80%;
+  color: var(--foreground);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 30px 10px;
+}
+.Favoritesh3 {
+  text-align: center;
+  color: var(--foreground);
+  padding: 10px;
+  font-size: var(--large-text);
+}
+.startExploring {
+  padding: 10px;
+  border-radius: 10px;
+  color: var(--foreground);
+  background: linear-gradient(135deg, #ff7a59 0%, #ff9470 100%);
+  text-decoration: none;
+}
+.favoriteSearchDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  /* border: solid 1px red; */
+  background-color: var(--card-destination);
+  border-radius: 10px;
+  padding: 5px;
+  gap: 10px;
+  border: solid 1px var(--foreground);
+}
+.favoriteSearchDiv:focus-within {
+  border: solid 1px rgb(238, 108, 77);
+}
+.searchIcon {
+  color: var(--foreground);
+}
+.favoriteSearchDiv input {
+  width: 90%;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  color: var(--foreground);
+}
+.favoritesGrid {
+  width: 80%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  background-color: var(--card-destination);
+  padding-bottom: 20px;
+}
+.favoriteCard {
+  /* width: 100%; */
+  /* padding: 10px; */
+  border-radius: 10px;
+  color: var(--foreground);
+  box-shadow: 0 0 10px var(--cards-shadow);
+  overflow: hidden;
+  height: 500px;
+  /* background-color: var(--card-destination); */
+}
+.favoriteCard img {
+  width: 100%;
+  border-radius: 10px 10px 0px 0px;
+  object-fit: cover;
+  height: 200px;
+  overflow: hidden;
+  transition: all 0.2s ease-in-out;
+}
+.favoriteCard:hover .favoriteCardImg {
+  scale: 1.05;
+}
+.favoriteCard:hover .favoritesTextDiv {
+  transform: translateY(-3px);
+}
+.favoritesTextDiv {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background-color: var(--card-destination);
+  transition: all 0.2s ease-in-out;
+}
+.favoritesTextNameDiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.favoritesTextName {
+  font-weight: 600;
+  font-size: var(--medium-text);
+}
+.favoritesTextCountry {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  /* justify-content: space-between; */
+}
+.favoritesTrashDiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.viewDetails {
+  text-decoration: none;
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+  background-color: #3d5a80;
+  width: 90%;
+  text-align: center;
+  transition: all 0.2s ease-in-out;
+}
+.viewDetails:hover {
+  background-color: rgba(61, 90, 128, 0.8);
+}
+
+@media screen and (max-width: 1121px) {
+  .favoritesGrid {
+    width: 95%;
+    /* margin: 0 auto; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    background-color: var(--card-destination);
+    padding-bottom: 20px;
+  }
+}
+@media screen and (max-width: 982px) {
+  .favoritesGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media screen and (max-width: 630px) {
+  .favoritesGrid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
